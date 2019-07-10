@@ -21,7 +21,7 @@
     <!-- Values for icon shape overrides. These should correspond to entries defined
      in icon_shape_override_paths_names -->
     <string-array translatable="false" name="icon_shape_override_paths_values">
-        <item></item>
+        <item>M50,0 C10,0 0,10 0,50 0,90 10,100 50,100 90,100 100,90 100,50 100,10 90,0 50,0 Z</item>
         <item>M50,0L100,0 100,100 0,100 0,0z</item>
         <item>M50,0 C10,0 0,10 0,50 0,90 10,100 50,100 90,100 100,90 100,50 100,10 90,0 50,0 Z</item>
         <item>M50 0A50 50,0,1,1,50 100A50 50,0,1,1,50 0</item>
