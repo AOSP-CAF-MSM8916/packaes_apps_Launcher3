@@ -35,7 +35,7 @@
         android:summary="@string/icon_shape_override_label_location"
         android:entries="@array/icon_shape_override_paths_names"
         android:entryValues="@array/icon_shape_override_paths_values"
-        android:defaultValue=""
+        android:defaultValue="M50,0 C10,0 0,10 0,50 0,90 10,100 50,100 90,100 100,90 100,50 100,10 90,0 50,0 Z"
         android:persistent="false" />
 
 </PreferenceScreen>
